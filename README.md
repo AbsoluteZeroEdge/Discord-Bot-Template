@@ -1,6 +1,7 @@
 # Discord-Bot-Template
 
 ## Important
+You will need [NODE](https://nodejs.org/) to run the file after setup, you can read more about node [here](https://nodejs.org/en/about/).
 ALL of this was made using the [GUIDE](https://discordjs.guide/) and [DOCS](https://discord.js.org/), they are phenomenal resources just at your disposal.
 
 If you wish to learn javascript a bit more you can use [this](https://javascript.info) link.
