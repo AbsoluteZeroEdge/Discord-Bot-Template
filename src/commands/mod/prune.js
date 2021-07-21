@@ -1,6 +1,6 @@
 module.exports = {
-	name: 'avatar',
-	aliases: ['icon', 'pfp'],
+	name: 'prune',
+	aliases: ['orune-your-mom'],
 	execute(message, args) {
         const amount = parseInt(args[0]) + 1;
 

@@ -1,6 +1,6 @@
 module.exports = {
-	name: 'avatar',
-	aliases: ['icon', 'pfp'],
+	name: 'kick',
+	aliases: ['kick-in-the-ass'],
 	execute(message, args) {
         if (!message.mentions.users.size) {
             return message.reply('you need to tag a user in order to kick them!');
